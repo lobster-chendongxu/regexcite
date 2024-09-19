@@ -25,3 +25,6 @@ check()
 
 
 install()
+
+
+use_package("stringr")
